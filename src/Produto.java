@@ -1,7 +1,7 @@
 
 public class Produto {
 	
-	 private String nome;
+	private String nome;
 	private String descricao;
 	
 	public Produto() {
